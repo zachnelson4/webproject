@@ -1,0 +1,59 @@
+/*
+Color 1: #7D4E57 
+Color 2: #294936
+Color 2: #8B9EB7
+*/
+
+body {
+    font-size: large;
+    padding: 10px;
+}
+
+h1, h2 {
+    color: #7D4E57;
+    text-align: center;
+}
+
+div.intro {
+    text-align: center;
+}
+
+div.intro img {
+    border: #294936 solid 5px;
+
+}
+
+div.park_list {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+div.moab {
+    text-align: center;
+}
+
+div.moab img {
+    border: #294936 solid 5px;
+}
+
+div.hiking {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border:#294936 solid 3px;
+    padding: 5px;
+}
+
+a:hover {
+    color: #8B9EB7;
+}
